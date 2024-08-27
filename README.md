@@ -11,6 +11,13 @@ The Weather-App is a dynamic web application that provides real-time weather inf
 - **Error Handling:** Displays a message when the location is not found.
 - **Responsive Design:** Adapts to various screen sizes for better usability.
 
+
+## Images 
+
+![Home Page](images/ss1.png)
+
+![Api Popup](images/ss2.png)  
+
 ## Installation
 
 1. **Clone the Repository:**
