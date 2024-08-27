@@ -23,4 +23,4 @@ The Weather-App is a dynamic web application that provides real-time weather inf
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone [https://github.com/yourusername/weather-app.git](https://github.com/Priyajha1998/Weather-App.git)
